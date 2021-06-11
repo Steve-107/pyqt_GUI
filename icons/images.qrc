@@ -1,0 +1,34 @@
+<RCC>
+  <qresource>
+    <file>44080526.jpg</file>
+    <file>bg.jpg</file>
+    <file>Light.jpg</file>
+    <file>Light.png</file>
+    <file>Light_icon.jpg</file>
+    <file>link.png</file>
+    <file>link_close.jpg</file>
+    <file>Link_Open.jpg</file>
+    <file>Link2.png</file>
+    <file>Main - 副本.png</file>
+    <file>Main.jpeg</file>
+    <file>Main.jpg</file>
+    <file>Main.png</file>
+    <file>Main_gaitubao_500x500.jpg</file>
+    <file>Main_icon.jpg</file>
+    <file>Main_on.png</file>
+    <file>music.jpg</file>
+    <file>People.jpg</file>
+    <file>People.png</file>
+    <file>Seat.jpg</file>
+    <file>Seat.png</file>
+    <file>Stop.jpg</file>
+    <file>Tempature.jpg</file>
+    <file>Tempature.png</file>
+    <file>Voice_on.jpg</file>
+    <file>voice_on.png</file>
+    <file>voice_Stop.jpg</file>
+    <file>voice_Stop.png</file>
+    <file>Voice1_on.jpg</file>
+    <file>Voice22.jpg</file>
+  </qresource>
+</RCC>
